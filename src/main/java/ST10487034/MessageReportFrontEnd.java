@@ -11,7 +11,7 @@ import java.awt.event.ActionListener;
 // It displays all messages, allows searching by sender, showing drafts, and deleting messages.
 public class MessageReportFrontEnd extends JFrame implements ActionListener {
 
-    // Color Palette
+    // Color Palette inspired by whatsapp
     private static final Color WHATSAPP_GREEN_PRIMARY = new Color(7, 94, 84); // Dark header/accent green
     private static final Color WHATSAPP_GREEN_ACCENT = new Color(37, 211, 102); // Lighter button/status green
     private static final Color WHATSAPP_BACKGROUND = new Color(236, 229, 221); // Light chat background
